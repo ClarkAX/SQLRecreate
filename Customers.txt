@@ -1,0 +1,9 @@
+CREATE TABLE Customers (
+CustomerID int(50),
+CustomerName tinytext,
+ContactName tinytext,
+Address tinytext,
+City tinytext,
+PostalCode int(6),
+Country char(75),
+) ;
